@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou o Raphael Peret <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JqOGttdTU3dDljbm8ybjUweWhsYWFuaGNsdXpnMnRibGtxOXpneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width=30></h2>
+<h2>Olá! Eu sou o Raphael <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JqOGttdTU3dDljbm8ybjUweWhsYWFuaGNsdXpnMnRibGtxOXpneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width=30></h2>
 
 <p><em>Fundador da <strong><a href="www.rarosolucoes.com.br">Raro Soluções</strong></a></em></p>
 <p><em>Analista de Sistemas na <a href="www.confitec.com.br">Confitec</a></em></p>
