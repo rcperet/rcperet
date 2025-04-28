@@ -1,7 +1,8 @@
 <h2>Olá! Eu sou o Raphael <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JqOGttdTU3dDljbm8ybjUweWhsYWFuaGNsdXpnMnRibGtxOXpneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width=30></h2>
 
-<p><em>Fundador da <strong><a href="www.rarosolucoes.com.br">Raro Soluções</strong></a></em></p>
-<p><em>Analista de Sistemas na <a href="www.confitec.com.br">Confitec</a></em></p>
+Fundador da [Raro Soluções](https://www.rarosolucoes.com.br)
+</br>
+Analista de Sistemas na [Confitec](https://www.confitec.com.br)
 
 [![Linkedin: rperet](https://img.shields.io/badge/-rperet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rperet/)](https://www.linkedin.com/in/rperet/)
 [![GitHub Raphael](https://img.shields.io/github/followers/rcperet?label=follow&style=social)](https://github.com/rcperet)
