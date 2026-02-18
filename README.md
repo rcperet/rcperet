@@ -2,7 +2,7 @@
 
 Fundador da [Raro Soluções](https://www.rarosolucoes.com.br)
 </br>
-Analista de Sistemas na [Confitec](https://www.confitec.com.br)
+Desenvolvedor backend na [Datum IT](https://www.datumit.com/)
 
 [![Linkedin: rperet](https://img.shields.io/badge/-rperet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rperet/)](https://www.linkedin.com/in/rperet/)
 [![GitHub Raphael](https://img.shields.io/github/followers/rcperet?label=follow&style=social)](https://github.com/rcperet)
